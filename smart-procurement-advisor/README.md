@@ -1,14 +1,14 @@
 # IBM Smart Procurement Advisor
 
 ## Pre-requisites
-- 1. Watsonx Discovery on IBM Cloud
+- 1. Watson Discovery on IBM Cloud
 - 2. Watsonx.ai on IBM Cloud
 - 3. Watsonx Assistant on IBM Cloud
 - 4. It is assumed that NodeJS is installed or download from <https://nodejs.org/en/download>.
 
-**1. Setting up watsonx Discovery**
+**1. Setting up Watson Discovery**
 
-- 1.1	From IBM cloud login search Watsonx Discovery from the catalog.
+- 1.1	From IBM cloud login search Watson Discovery from the catalog.
 - 1.2 Create a new instance and launch the application.
 - 1.3.	Create a new project, give a suitable name for project and collection.
 - 1.4.	Choose document retrieval as the method from drop down list.
